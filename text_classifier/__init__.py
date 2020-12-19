@@ -1,0 +1,1 @@
+from .livedoor_news import load_news_corpus
